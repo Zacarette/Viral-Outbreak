@@ -3,7 +3,7 @@
 Viral Outbreak is a text-based adventure and survival game where you must collect six items to defeat a Zombie Horde. Navigate through different rooms, gather resources, and survive.
 But be careful, if you encounter the horde before being fully prepared, you won’t make it out alive!
 ## Gameplay
-**Objective:** Collect all six items before encountering the Zombie Horde.
+**Objective:** Collect all six items before encountering the Zombie Horde.  
 **Movement Commands:** `go North`, `go South`, `go East`, `go West`  
 **Item Collection:** Type `get "item name"` to pick up an item
 ## Room Layout
@@ -14,7 +14,7 @@ To see the room layout for the map please view *Map for text game.png*
 ## Installing and Running the Game
 **1. Clone the repository in Git Bash:**
 `git clone https://github.com/Zacarette/SNHU-IT-140.git`  
-`cd SNHU-IT-140`
+`cd SNHU-IT-140`  
 **2. Run the Python Script:**
 `python TextBasedGame.py`
 ## Features

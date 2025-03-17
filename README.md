@@ -13,10 +13,10 @@ To see the room layout for the map please view *Map for text game.png*
 **Lose:** If you enter the Lobby without all 6 items, the horde overwhelms you.
 ## Installing and Running the Game
 **1. Clone the repository in Git Bash:**  
-`git clone https://github.com/Zacarette/SNHU-IT-140.git`  
-`cd SNHU-IT-140`  
+  `git clone https://github.com/Zacarette/SNHU-IT-140.git`  
+  `cd SNHU-IT-140`  
 **2. Run the Python Script:**  
-`python TextBasedGame.py`
+  `python TextBasedGame.py`
 ## Features
 - A room-based exploration system with interactive commands.
 - Inventory tracking to store collected items.

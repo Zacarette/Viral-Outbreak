@@ -12,10 +12,10 @@ To see the room layout for the map please view *Map for text game.png*
 **Win:** If you collect all 6 items before entering the Lobby, you defeat the Zombie Horde!  
 **Lose:** If you enter the Lobby without all 6 items, the horde overwhelms you.
 ## Installing and Running the Game
-**1. Clone the repository in Git Bash:**
+**1. Clone the repository in Git Bash:**  
 `git clone https://github.com/Zacarette/SNHU-IT-140.git`  
 `cd SNHU-IT-140`  
-**2. Run the Python Script:**
+**2. Run the Python Script:**  
 `python TextBasedGame.py`
 ## Features
 - A room-based exploration system with interactive commands.

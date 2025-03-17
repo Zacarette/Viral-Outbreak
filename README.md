@@ -13,8 +13,8 @@ To see the room layout for the map please view *Map for text game.png*
 **Lose:** If you enter the Lobby without all 6 items, the horde overwhelms you.
 ## Installing and Running the Game
 **1. Clone the repository in Git Bash:**  
-  `git clone https://github.com/Zacarette/SNHU-IT-140.git`  
-  `cd SNHU-IT-140`  
+  `git clone https://github.com/Zacarette/Viral-Outbreak.git`  
+  `cd Viral-Outbreak`  
 **2. Run the Python Script:**  
   `python TextBasedGame.py`
 ## Features
